@@ -1,5 +1,7 @@
 # hello-angular-spa
 
+A silly little AngularJS app to allow playing with GoCD.
+
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
 
